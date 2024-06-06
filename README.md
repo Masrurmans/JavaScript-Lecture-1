@@ -35,10 +35,7 @@
  - A boolean (logical type)
  - The “null” value
  - The “undefined” value
- - bjects and Symbols
-
-
-![](https://i.gifer.com/1qsy.gif)
+ - Objects and Symbols
 
 
 # For example
@@ -53,3 +50,8 @@ let greeting = "Hello";
 let name = "John";
 ```
 
+# Symbol
+### In JavaScript, Symbol() is a built-in function that creates a unique and immutable data type called a Symbol. Symbols are often used as property keys for object properties, particularly when you want to ensure that the property key is unique and not accidentally overwritten or conflicted with other keys.
+
+# Biglnt
+### BigInt values represent numeric values which are too large to be represented by the number primitive.
