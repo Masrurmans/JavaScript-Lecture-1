@@ -37,6 +37,10 @@
  - The “undefined” value
  - bjects and Symbols
 
+
+![](https://i.gifer.com/1qsy.gif)
+
+
 # For example
 ## number
 ```js
