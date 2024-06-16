@@ -1,4 +1,5 @@
 # Welcome to JavaScript lecture
+## What is a JavaScript ?
 ### `JavaScript` is a programming language used to create and control dynamic website content. (i.e. anything that moves, refreshes, or changes on-screen without reloading a web page).
 ##
 ![js picture](https://github.com/Masrurmans/Masrurmans/assets/171729580/b4479dd1-ec8b-42b4-b80e-148d0456924d)
